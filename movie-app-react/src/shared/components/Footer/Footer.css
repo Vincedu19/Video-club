@@ -1,0 +1,12 @@
+.container-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container-content img{
+    width: 150px;
+}
+
+h1{
+    color: #f1f1f1;
+}

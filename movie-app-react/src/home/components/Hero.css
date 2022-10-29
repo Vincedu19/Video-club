@@ -1,0 +1,26 @@
+.container-hero{
+    width: 100%;
+    height: 90vh;
+    max-width: 2000px;
+  
+}
+
+.container-hero-img-infos{
+    width: 100%;
+    height: 90%;
+    position: relative;
+    background-size: cover;
+    background-position: 50% 70%;
+        
+}
+
+.infos{
+    position: absolute;
+    left: 50px;
+    bottom: 80px;
+}
+
+.infos h1{
+    color: #f1f1f1;
+    font-size: 25px;
+}

@@ -1,0 +1,41 @@
+.container-infos-img{
+    position: relative;
+    height: 300px;
+    width: 200px;
+    border-radius: 200px;
+    margin: 5px;
+    background-color: #f1f1f1;
+}
+
+
+.container-infos-img img{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.red{
+    position:absolute;
+    color: white;
+    background-color: crimson;
+    padding: 10px;
+    border-radius: 20px;
+    right: 5px;
+    bottom: 5px;
+    z-index: 2000;
+}
+
+.green{
+    position:absolute;
+    color: white;
+    background-color: rgb(6, 116, 11);
+    padding: 10px;
+    border-radius: 20px;
+    right: 5px;
+    bottom: 5px;
+    z-index: 2000;
+}
+
+
+
